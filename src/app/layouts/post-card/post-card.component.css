@@ -1,0 +1,5 @@
+.card {
+  max-width: 400px;
+  color: var(--body-text-color);
+}
+
